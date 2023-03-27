@@ -1,4 +1,10 @@
+
+
 # create-svelte
+
+### Purpose
+
+This Repo was created as part of a workshop done by the ORIGYN team(@fermatz).
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
